@@ -19,7 +19,8 @@ The  RB-Enterprises Store wants to create an annual sales report for 2022. So th
 - Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
 
  ## Dashboards:-
- ![image](https://github.com/Faizan-DataAnalyst/RB-Enterprises-Data-Analysis-EXCEL/assets/144520186/2ae19638-5500-4ff6-9df7-0f7abaaa8d3b)
+![image](https://github.com/Faizan-DataAnalyst/RB-Enterprises-Data-Analysis-EXCEL/assets/144520186/32eba294-65fb-47ff-8eaa-c6cba3e8cf93)
+
 
  ![image](https://github.com/Faizan-DataAnalyst/RB-Enterprises-Data-Analysis-EXCEL/assets/144520186/8d56ff56-9fa0-437b-bbbe-5007934fb68e)
 
